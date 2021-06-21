@@ -1,0 +1,13 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.calcy.MainActivity">
+<item android:id="@+id/dele"
+    android:icon="@drawable/ic_del"
+    android:title="Info"
+   app:showAsAction="never"
+    />
+
+
+</menu>
